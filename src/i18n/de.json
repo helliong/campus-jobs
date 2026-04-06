@@ -4,5 +4,13 @@
   "loading": "Laden...",
   "myApplications": "Meine Bewerbungen",
   "status": "Status",
-  "noApplications": "Noch keine Bewerbungen"
+  "noApplications": "Noch keine Bewerbungen",
+  "messages": "Nachrichten",
+  "send": "Senden",
+  "writeMessage": "Nachricht eingeben",
+  "student": "Student",
+  "employer": "Arbeitgeber",
+  "openChat": "Chat öffnen",
+  "closeChat": "Chat schließen",
+  "noMessages": "Noch keine Nachrichten"
 }

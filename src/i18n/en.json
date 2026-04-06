@@ -4,5 +4,13 @@
   "loading": "Loading...",
   "myApplications": "My applications",
   "status": "Status",
-  "noApplications": "No applications yet"
+  "noApplications": "No applications yet",
+  "messages": "Messages",
+  "send": "Send",
+  "writeMessage": "Enter message",
+  "student": "Student",
+  "employer": "Employer",
+  "openChat": "Open chat",
+  "closeChat": "Close chat",
+  "noMessages": "No messages yet"
 }

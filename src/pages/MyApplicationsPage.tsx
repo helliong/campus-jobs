@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react";
 import { useTranslation } from "react-i18next";
 import { api } from "../api/client";
+import { ApplicationChat } from "../shared/ApplicationChat";
 
 type Application = {
   id: number;
@@ -48,6 +49,8 @@ export const MyApplicationsPage = () => {
             <p>
               {t("status")}: {app.status_label}
             </p>
+
+            <ApplicationChat applicationId={app.id} />
           </div>
         ))
       )}

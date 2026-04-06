@@ -4,5 +4,13 @@
   "loading": "Загрузка...",
   "myApplications": "Мои заявки",
   "status": "Статус",
-  "noApplications": "Заявок пока нет"
+  "noApplications": "Заявок пока нет",
+  "messages": "Сообщения",
+  "send": "Отправить",
+  "writeMessage": "Введите сообщение",
+  "student": "Студент",
+  "employer": "Работодатель",
+  "openChat": "Открыть чат",
+  "closeChat": "Закрыть чат",
+  "noMessages": "Сообщений пока нет"
 }
